@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.logo{
+    width: 20px;
+    height: 20px;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+}
+.section1{
+    height: 85px;
+    /* background-color: blueviolet; */
+}
+
+.my-image{
+    height: 80vh;
+}
+.my-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+.shiva-color1{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
+.shiva-color2{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
